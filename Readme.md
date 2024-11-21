@@ -1,2 +1,2 @@
 This is Project Readme file :)
-Line modified in local :-)
+This line was modified during conflicts resolution.
